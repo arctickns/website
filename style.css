@@ -1,7 +1,8 @@
 h1 {
-
-  color: navy; 
-  border:solid;
-  border-width: 2px
+  font-size: 36px;
+  border: 1px solid;
+  color: navy;
+  border-width: 2px;
+  padding: 3px;
   
 }
